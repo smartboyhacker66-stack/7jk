@@ -1,0 +1,8 @@
+Log started Tue 11/10/2026 16:07:41.76
+INFO: Starting. A copy of this output is saved in push_to_github.log, without any secret keys.
+INFO: Step 1 of 7. Checking that git and PowerShell are installed.
+OK: Git and PowerShell are installed.
+INFO: Step 2 of 7. Preparing the local git repository.
+OK: A git repository already exists here.
+OK: Using branch main.
+INFO: Step 3 of 7. Committing your files.

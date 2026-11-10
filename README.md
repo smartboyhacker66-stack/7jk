@@ -17,7 +17,7 @@ The server refuses to start without MCP_AUTH_TOKEN. Every request except /health
 
 ## Deploy
 
-Run `bash deploy.sh` (Linux, macOS, WSL, or Git Bash on Windows). It pushes to GitHub, creates the Render
+On Windows, double-click `push_to_github.bat`. On Linux, macOS, WSL or Git Bash, run `bash deploy.sh`. It pushes to GitHub, creates the Render
 service through the Render API, asks for your OpenRouter key only at that point, waits for the deploy,
 and prints the final HTTPS MCP URL.
 
